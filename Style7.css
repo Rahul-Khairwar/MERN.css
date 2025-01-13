@@ -1,0 +1,25 @@
+.container{
+          
+    background-color:blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:aliceblue;
+    gap: 150px;
+    
+
+}
+
+.container div h1{
+   font-size: 200px;
+}
+.container div p{
+     margin-top: 20px;
+     font-size: 80px;
+}
+.container div button{
+   padding: 8px 12px;
+   border-radius: 100px;
+   font-size: 150px;
+
+}

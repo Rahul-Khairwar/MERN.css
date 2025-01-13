@@ -1,0 +1,19 @@
+.wrapper{
+
+background-color: blue; 
+/*
+padding-left: 50px;
+padding-top: 50px;
+padding-bottom: 50px; */
+padding: 50px;
+border: 13px double blue;
+}
+.wrapper h1{
+
+    color: azure;
+}
+.wrapper button{
+
+    padding: 10px 20px;
+    
+}

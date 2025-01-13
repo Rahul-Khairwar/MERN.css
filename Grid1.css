@@ -1,0 +1,19 @@
+.wrapper{
+    height: 100vh;
+    background-color: yellow;
+    display: grid;
+    grid-template-columns: 350 auto 350;
+    grid-template-rows: 180px auto 180
+    
+    px;
+
+
+}
+.ch1,.ch2,.ch3,.ch4,.ch5,.ch6,.ch7, .ch8,.ch9{
+   
+    background-color: blue;
+    border: 2px solid black;
+    color: whitesmoke;
+
+}
+

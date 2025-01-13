@@ -1,0 +1,35 @@
+.head1{
+
+    text-align: center;
+    text-decoration: line-through;
+}
+.head2{
+
+    text-align: center;
+    text-decoration: overline;
+}
+.head3{
+
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style : wavy  ;
+    text-decoration-color:red;
+    font-size: 130px;
+    text-shadow: 12px 13px 30px black;
+    /*  HORIZONTAL VERTICAL BLURE COLOR */
+    color: brown;
+    letter-spacing: 19px;
+    font-family: Cambria;
+
+    
+}
+/* text decoration style double, dotted,wavy, dashed ,solid */
+
+#para{
+       
+    font-style: normal;
+    font-size:larger;
+    word-spacing: 20px;
+    letter-spacing: 10px;
+    font-family:system-ui;
+}

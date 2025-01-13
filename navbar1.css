@@ -1,0 +1,31 @@
+.navbar{
+
+    background-color:rgb(219, 23, 23);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+
+}
+
+.navbar ul{
+
+     display: flex;
+     gap: 30px;
+     list-style: none;
+
+
+}
+h2{
+
+    text-align: center;
+
+}
+i{
+    position: fixed;
+    color: black;
+    background-color: blue;
+}
+/* static relative sticky fixed absolute */

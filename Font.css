@@ -1,0 +1,18 @@
+.body{
+       
+    background-color: aqua;
+}
+.head1{
+   
+    font-family: "DM Serif Text", serif;
+
+}
+.head2{
+
+    font-family: "Playwrite AU SA", serif;
+}
+.hero{
+
+background-image: url(burger.html);
+  height: 80vh;
+}

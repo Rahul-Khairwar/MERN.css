@@ -1,0 +1,106 @@
+
+>>>>>CSS is a Cacading style sheet 
+      code format of css 
+      PROPERTY:  VALUE;
+
+
+>>>>Using css with html from 3 types 
+1 inline CSS - Within a Tag
+2.INTERNAL CSS - within a page 
+3. EXTERNAL CSS - whole web pages 
+    
+>>>CSS is a Cascading style sheet 
+      code format of css 
+      PROPERTY:  VALUE;
+
+
+
+>>>>>> text decoration style
+
+ double, dotted,wavy, dashed ,solid 
+
+>>PROPERTIES IN CSS..
+ >>>>>TEXT SHADOW IN CSS 4 FORMS
+ 1.HORIZONTAL
+ 2.VERTICAL 
+ 3.Blure
+4.color
+>>
+
+>>TO Change color
+We use color PROPERTIES in css 
+
+>> To change text style in css
+we use Font family
+    
+Selector
+We use Selector in css from 5 types
+1.tag      = tagname 
+2. class   = .classname 
+3.id       = #idname 
+4.universal= *
+5. Grouping Selector
+
+Icon>>>>>
+CDN= Content Delivery Network
+
+Text SHADOW---
+From 4 types 
+1.HORIZONTAL
+2.VERTICAL
+3.Blure
+4.color
+
+Box SHADOW ---
+from 5 types
+1.HORIZONTAL
+2.VERTICAL
+3.Blure
+4.spread
+5.color
+
+
+Div tag >> It divide web pages .
+
+<Div> tag is a blog element (It contains whole page with 100% witdth).
+<div>Header </div>      
+ <div>Hero  </div>      
+<div>About </div>      
+<div>Footer </div>
+
+Padding-- Padding used to make Space between Border and Text.
+ from 4 types we use padding 
+ 1.padding-top::
+ 1.padding-bottom:
+ 1.padding-left:
+ 1.padding-right:
+
+Note - IF WE WANT SPACE between border and text from all around like left ,right, top, bottom we use short cut
+key "Padding:" only .
+
+padding: 10px 20px;(where 10px is top, bottom 20)
+
+Note---
+border: 13px double blue;
+(Where 13px is width of Border , 
+double is style of border
+blue is color of border)
+
+
+MARGIN-TOP --- it is used to give space out of the container.means between the container.
+margin-top:
+margin-right :
+margin-bottom:
+margin-left :
+
+To make website Responsive to mobile, tablet we use wrapper!>>>>>>
+
+In Grid >> 
+Row comes with Height 
+Column comes with Width 
+
+Note :>>> vh means View Port height 
+
+
+
+     
