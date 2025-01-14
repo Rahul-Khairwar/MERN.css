@@ -1,0 +1,35 @@
+.head::before{
+    
+    content:"welcome ";
+    color: red;
+}
+.head::after{
+
+    content: " world";
+    color: blue;
+}
+.btn{
+    
+    cursor: pointer;
+
+}
+.btn:hover{
+
+    color: red;
+    background-color: yellow;
+    padding: 12px 8px;
+    border: none;
+
+}
+.container{
+
+    height: 200px;
+    width: 500px;
+    border: 2px solid black;
+    cursor: pointer;
+}
+.container:hover{
+  
+    background-color: red;
+
+}
